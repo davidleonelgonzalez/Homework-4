@@ -4,6 +4,7 @@
 # ZyLabs 12.6.1 urged the use of variable age as an input integer for def get_age
 # which an if statement would be needed to assert the input age that needed to be between
 # 18 and 75. Then raised a value error if not in the range of the if statement, thus later returning age
+# example 12.4.1 participation activity had similiar corresponding format.
 
 def get_age():
 
